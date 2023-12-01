@@ -1,0 +1,105 @@
+/* Your styles here */
+ 
+*{
+
+        font-family: Arial, Helvetica, sans-serif;
+       
+}
+
+header nav{
+    
+    background-color: #222f3f;
+    
+}
+#logo{
+    padding: 10px;
+}
+
+#nav-bar ul li {
+     
+    display: inline;
+    
+}
+#nav-bar{
+    background-color: #364759;
+}
+
+#nav-bar ul li a {
+    text-decoration: none;
+    color: white;
+    padding:  20px;
+}
+main{
+    margin: 30px;
+}
+#first_div{
+    background-color: #f56600;
+    
+    text-align: center; 
+    color: white;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+
+#second_div{
+    background-image: url(../images/bg-image.png);  
+    
+    background-size: cover;
+    height: 200px;
+    text-align: center;
+     color: white;
+}
+#second_div h2{
+    padding: 60px ;
+    font-weight:900 ;
+
+}
+#Third_div{
+    margin: 10px;
+}
+
+#Third_div p{
+    font-weight:900 ; 
+    display: inline-block; 
+    padding: 10px;
+}
+
+.img{
+    height: 300px;
+    width: 250px;
+    padding:  2%;
+    border-radius: 10%;
+    
+}
+
+
+#Fourth_div p , #Fifth_div p {
+    text-align: center;
+    padding: 2%;
+
+}
+#Fourth_div p a , #Fifth_div p a{
+    text-decoration: none;
+}
+
+#to_top{
+    text-decoration: none;
+text-align: center;
+background-color: #364759;
+padding: 20px;
+color: white;
+
+}
+
+footer{
+    background-color: #222f3f;
+}
+footer img{
+height: 50px;
+height: 80px; 
+padding: 5%;
+margin: auto;
+display: block;
+
+}
